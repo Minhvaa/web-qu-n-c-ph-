@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520">
+<rect width="600" height="520" rx="34" fill="#f1e5d5"/>
+<circle cx="460" cy="115" r="72" fill="#dfc09d" opacity=".7"/><circle cx="130" cy="390" r="95" fill="#e6d2b9"/>
+<ellipse cx="298" cy="375" rx="170" ry="34" fill="#5a331f" opacity=".18"/>
+<path d="M165 210h265v135c0 57-46 103-103 103h-59c-57 0-103-46-103-103V210z" fill="#fffaf2" stroke="#6e3f25" stroke-width="7"/>
+<path d="M430 245h40c42 0 67 23 67 57s-25 57-67 57h-42" fill="none" stroke="#6e3f25" stroke-width="18"/>
+<ellipse cx="297" cy="210" rx="133" ry="31" fill="#3e2518"/>
+<ellipse cx="297" cy="202" rx="120" ry="23" fill="#6f4229"/>
+<path d="M225 166c-15-50 27-63 12-111M294 166c-13-49 30-65 14-111M363 166c-10-43 29-58 17-96" fill="none" stroke="#c79b71" stroke-width="10" stroke-linecap="round" opacity=".75"/>
+<text x="300" y="438" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#6e3f25">CÀ PHÊ VIỆT</text>
+</svg>

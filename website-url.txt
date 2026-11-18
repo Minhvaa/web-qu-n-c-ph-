@@ -1,0 +1,6 @@
+DÁN ĐƯỜNG DẪN GITHUB PAGES CỦA BẠN VÀO ĐÂY
+
+Ví dụ:
+https://ten-tai-khoan.github.io/ten-repository/
+
+Lưu ý: File này là chỗ để điền URL sau khi bạn bật GitHub Pages.
